@@ -19,7 +19,7 @@
 - 💬 Ask me about **React, JavaScript, Backend**
 - 📫 How to reach me: **punamprajapati1012@gmail.com**
 - 📄 Know about my experiences:  
-  **https://drive.google.com/file/d/1TbLHosSoCCQf7Tr3oyiR7habA4bo83mX/view**
+  **[https://drive.google.com/file/d/1TbLHosSoCCQf7Tr3oyiR7habA4bo83mX/view](https://drive.google.com/file/d/1NRgtmQc2tl1XsTsopK7NzwrUm9cnvTgs/view?usp=sharing)**
 - ⚡ Fun Fact: **"First, solve the problem. Then, write the code."**
 
 ---
