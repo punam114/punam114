@@ -1,24 +1,25 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Gilroy+ExtraBold&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Punam+Kumari;MERN+Stack+Developer;Full+Stack+Web+Developer;JavaScript+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Gilroy+ExtraBold&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Punam+Kumari;Full+Stack+Web+Developer;MERN+Stack+Developer;Problem+Solver;Always+Learning+Something+New" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">✨ Passionate MERN Stack Developer building clean, modern & impactful web applications ✨</h3>
+<h3 align="center">✨ Turning ideas into interactive, scalable, and meaningful web experiences ✨</h3>
 
 ---
 
 ## 🧭 About Me  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💻_MERN%20Developer-61dafb?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🔥_Full%20Stack%20Enthusiast-fb61da?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💻_Full%20Stack%20Developer-61dafb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔥_MERN%20Stack%20Enthusiast-fb61da?style=for-the-badge" />
 </p>
 
 - 🌱 I’m currently learning **Full Stack Development**
-- 👨‍💻 All of my projects: **https://portfolio-pi-ecru-37.vercel.app/**
-- 💬 Ask me about **React, JavaScript, MERN, Backend**
-- 📫 Reach me at: **punamprajapati1012@gmail.com**
-- 📄 My Resume:  
-  **https://drive.google.com/file/d/1TbLHosSoCCQf7Tr3oyiR7habA4bo83mX/view?usp=drive_link**
+- 👨‍💻 All of my projects are available at:  
+  **https://portfolio-pi-ecru-37.vercel.app/**
+- 💬 Ask me about **React, JavaScript, Backend**
+- 📫 How to reach me: **punamprajapati1012@gmail.com**
+- 📄 Know about my experiences:  
+  **https://drive.google.com/file/d/1TbLHosSoCCQf7Tr3oyiR7habA4bo83mX/view**
 - ⚡ Fun Fact: **"First, solve the problem. Then, write the code."**
 
 ---
@@ -28,7 +29,7 @@
 <h3 align="center">⚙️ Languages, Frameworks & Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,firebase,tailwind,git,github,redis,redux,figma,postman,vscode&perline=8&theme=light" width="92%" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,firebase,tailwind,git,github,redux,redis,figma,postman,vscode&perline=8&theme=light" width="92%" />
 </p>
 
 <p align="center">
@@ -39,11 +40,14 @@
 
 ## 💼 Featured Projects  
 <p align="center">
-  <a href="https://portfolio-pi-ecru-37.vercel.app/" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=punam12&repo=your-repo-1&theme=radical&border_color=61dafb&border_radius=12" />
+  <a href="https://portfolio-pi-ecru-37.vercel.app/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=punam12&repo=project-1&theme=radical&border_color=61dafb&border_radius=12" />
   </a>
-  <a href="https://portfolio-pi-ecru-37.vercel.app/" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=punam12&repo=your-repo-2&theme=radical&border_color=61dafb&border_radius=12" />
+  <a href="https://portfolio-pi-ecru-37.vercel.app/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=punam12&repo=project-2&theme=radical&border_color=61dafb&border_radius=12" />
+  </a>
+  <a href="https://portfolio-pi-ecru-37.vercel.app/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=punam12&repo=project-3&theme=radical&border_color=61dafb&border_radius=12" />
   </a>
 </p>
 
@@ -51,15 +55,15 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="85%" alt="animated divider" />
 </p>
 
-> 🧠 Every project has helped me grow in frontend, backend, UI/UX, and overall development skills.
+> 🧠 Every project has shaped my skills in frontend, backend, UI/UX, and real-world problem solving.
 
 ---
 
 ## 🧩 Problem Solving  
 
-- 🧠 Actively practicing *DSA* on **LeetCode & HackerRank**  
-- 🧮 Writing clean, modular, optimized code  
-- 💡 Strong passion for solving real-world challenges
+- 🧠 Practicing *DSA* on **LeetCode & HackerRank**  
+- 🧮 Writing optimized and clean code  
+- 💡 Passionate about solving real-world challenges
 
 ---
 
@@ -90,4 +94,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=footer&text=Thanks+for+visiting!&fontColor=ffffff&fontSize=22&animation=twinkling&fontAlignY=70"/>
+</p>
