@@ -19,7 +19,7 @@
 - 💬 Ask me about **React, JavaScript, Backend**
 - 📫 How to reach me: **punamprajapati1012@gmail.com**
 - 📄 Know about my experiences:  
-  **[https://drive.google.com/file/d/1TbLHosSoCCQf7Tr3oyiR7habA4bo83mX/view](https://drive.google.com/file/d/1NRgtmQc2tl1XsTsopK7NzwrUm9cnvTgs/view?usp=sharing)**
+  **https://drive.google.com/file/d/1NRgtmQc2tl1XsTsopK7NzwrUm9cnvTgs/view?usp=sharing**
 - ⚡ Fun Fact: **"First, solve the problem. Then, write the code."**
 
 ---
@@ -39,15 +39,18 @@
 ---
 
 ## 💼 Featured Projects  
+
+<!-- Replace your-repo-1, your-repo-2, your-repo-3 with your actual repo names -->
+
 <p align="center">
   <a href="https://portfolio-pi-ecru-37.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=punam12&repo=project-1&theme=radical&border_color=61dafb&border_radius=12" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=punam114&repo=your-repo-1&theme=radical&border_color=61dafb&border_radius=12" />
   </a>
   <a href="https://portfolio-pi-ecru-37.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=punam12&repo=project-2&theme=radical&border_color=61dafb&border_radius=12" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=punam114&repo=your-repo-2&theme=radical&border_color=61dafb&border_radius=12" />
   </a>
   <a href="https://portfolio-pi-ecru-37.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=punam12&repo=project-3&theme=radical&border_color=61dafb&border_radius=12" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=punam114&repo=your-repo-3&theme=radical&border_color=61dafb&border_radius=12" />
   </a>
 </p>
 
@@ -70,12 +73,12 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=punam12&show_icons=true&theme=radical&border_color=61dafb&border_radius=12" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=punam12&theme=radical&border_color=61dafb&border_radius=12" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=punam114&show_icons=true&theme=radical&border_color=61dafb&border_radius=12" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=punam114&theme=radical&border_color=61dafb&border_radius=12" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=punam12&layout=compact&theme=radical&border_color=61dafb&border_radius=12" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=punam114&layout=compact&theme=radical&border_color=61dafb&border_radius=12" height="165" />
 </p>
 
 ---
@@ -86,8 +89,8 @@
   <a href="https://www.linkedin.com/in/punam-prajapati-2752b3292/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:punamprajapati1012@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://portfolio-pi-ecru-37.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://github.com/punam12"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.leetcode.com/punam12"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://github.com/punam114"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.leetcode.com/punam114"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
   <a href="https://www.hackerrank.com/punamprajapati"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 </p>
 
