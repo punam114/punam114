@@ -13,14 +13,13 @@
   <img src="https://img.shields.io/badge/🔥_MERN%20Stack%20Enthusiast-fb61da?style=for-the-badge" />
 </p>
 
-- 🌱 I’m currently learning **Full Stack Development**
-- 👨‍💻 All of my projects are available at:  
-  **https://portfolio-pi-ecru-37.vercel.app/**
+- 🌱 Currently learning **Full Stack Development**
+- 👨‍💻 Explore all my projects: **https://portfolio-pi-ecru-37.vercel.app/**
 - 💬 Ask me about **React, JavaScript, Backend**
-- 📫 How to reach me: **punamprajapati1012@gmail.com**
-- 📄 Know about my experiences:  
+- 📫 Reach me at: **punamprajapati1012@gmail.com**
+- 📄 Resume:  
   **https://drive.google.com/file/d/1NRgtmQc2tl1XsTsopK7NzwrUm9cnvTgs/view?usp=sharing**
-- ⚡ Fun Fact: **"First, solve the problem. Then, write the code."**
+- ⚡ Fun Fact: *"First, solve the problem. Then, write the code."*
 
 ---
 
@@ -33,40 +32,45 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%" alt="animated divider"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%" />
 </p>
 
 ---
 
 ## 💼 Featured Projects  
 
-<!-- Replace your-repo-1, your-repo-2, your-repo-3 with your actual repo names -->
-
 <p align="center">
-  <a href="https://portfolio-pi-ecru-37.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=punam114&repo=your-repo-1&theme=radical&border_color=61dafb&border_radius=12" />
+
+  <!-- Lenskart Project -->
+  <a href="https://6658b5dc403c344859049415--inquisitive-daffodil-b3afeb.netlify.app/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=punam114&repo=Project&theme=radical&border_color=61dafb&border_radius=12" />
   </a>
-  <a href="https://portfolio-pi-ecru-37.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=punam114&repo=your-repo-2&theme=radical&border_color=61dafb&border_radius=12" />
+
+  <!-- Home Improvement Tracker -->
+  <a href="https://home-improvement-tracker.netlify.app/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=punam114&repo=Home-Improvement-Tracker&theme=radical&border_color=61dafb&border_radius=12" />
   </a>
-  <a href="https://portfolio-pi-ecru-37.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=punam114&repo=your-repo-3&theme=radical&border_color=61dafb&border_radius=12" />
+
+  <!-- Recipe App -->
+  <a href="https://recipe-app-sigma-sooty.vercel.app/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=punam114&repo=Recipe-App&theme=radical&border_color=61dafb&border_radius=12" />
   </a>
+
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="85%" alt="animated divider" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="85%" />
 </p>
 
-> 🧠 Every project has shaped my skills in frontend, backend, UI/UX, and real-world problem solving.
+> 🧠 Every project has helped me grow in frontend, backend, UI/UX, and real-world problem solving.
 
 ---
 
 ## 🧩 Problem Solving  
 
 - 🧠 Practicing *DSA* on **LeetCode & HackerRank**  
-- 🧮 Writing optimized and clean code  
-- 💡 Passionate about solving real-world challenges
+- 🧮 Writing optimized, scalable & clean code  
+- 💡 Passionate about solving real-world challenges  
 
 ---
 
@@ -74,7 +78,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=punam114&show_icons=true&theme=radical&border_color=61dafb&border_radius=12" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=punam114&theme=radical&border_color=61dafb&border_radius=12" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=punam114&theme=radical&border_color=61dafb&border_radius=12" height="165" />
 </p>
 
 <p align="center">
@@ -90,7 +94,7 @@
   <a href="mailto:punamprajapati1012@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://portfolio-pi-ecru-37.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://github.com/punam114"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.leetcode.com/punam114"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://leetcode.com/punam114"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
   <a href="https://www.hackerrank.com/punamprajapati"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 </p>
 
