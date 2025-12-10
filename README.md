@@ -72,23 +72,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <!-- Profile Stats -->
-  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=punam114&show_icons=true&theme=radical&border_color=61dafb&border_radius=12" height="165" />
-  
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=punam114&theme=radical&border_color=61dafb&border_radius=12" height="165" />
-</p>
-
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=punam114&layout=compact&theme=radical&border_color=61dafb&border_radius=12" height="165" />
-</p>
-
-
----
 
 ## 🌐 Connect with Me  
 
