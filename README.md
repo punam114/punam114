@@ -41,28 +41,26 @@
 
 <p align="center">
 
-  <!-- Lenskart Project -->
-  <a href="https://6658b5dc403c344859049415--inquisitive-daffodil-b3afeb.netlify.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=punam114&repo=Project&theme=radical&border_color=61dafb&border_radius=12" />
+  <!-- Lenskart Shopping Website -->
+  <a href="https://6658b5dc043c344859049415--inquisitive-daffodil-b3afeb.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Lenskart%20Shopping%20Website-Visit%20Site-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 
   <!-- Home Improvement Tracker -->
-  <a href="https://home-improvement-tracker.netlify.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=punam114&repo=Home-Improvement-Tracker&theme=radical&border_color=61dafb&border_radius=12" />
+  <a href="https://home-improvement-tracker.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Home%20Improvement%20Tracker-Visit%20Site-2962FF?style=for-the-badge&logo=web&logoColor=white" />
   </a>
 
   <!-- Recipe App -->
-  <a href="https://recipe-app-sigma-sooty.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=punam114&repo=Recipe-App&theme=radical&border_color=61dafb&border_radius=12" />
+  <a href="https://recipe-app-sigma-sooty.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Recipe%20App-Visit%20Site-FF3D00?style=for-the-badge&logo=foodpanda&logoColor=white" />
   </a>
 
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="85%" />
-</p>
-
-> 🧠 Every project has helped me grow in frontend, backend, UI/UX, and real-world problem solving.
+</p> 🧠 Every project has helped me grow in frontend, backend, UI/UX, and real-world problem solving.
 
 ---
 
