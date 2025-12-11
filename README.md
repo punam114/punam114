@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Gilroy+ExtraBold&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Punam+Kumari;Full+Stack+Web+Developer;MERN+Stack+Developer;Problem+Solver;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Gilroy+ExtraBold&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Punam+Kumari;Aspiring+MERN+Developer;Full+Stack+Web+Developer;Problem+Solver;Always+Learning+New+Things" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">✨ Turning ideas into interactive, scalable, and meaningful web experiences ✨</h3>
+<h3 align="center">✨ Passionate about building real-world, scalable, and user-friendly web applications ✨</h3>
 
 ---
 
@@ -13,10 +13,11 @@
   <img src="https://img.shields.io/badge/🔥_MERN%20Stack%20Enthusiast-fb61da?style=for-the-badge" />
 </p>
 
-- 🌱 Currently learning **Full Stack Development**
-- 👨‍💻 Explore all my projects: **https://portfolio-pi-ecru-37.vercel.app/**
-- 💬 Ask me about **React, JavaScript, Backend**
-- 📫 Reach me at: **punamprajapati1012@gmail.com**
+- 🎯 **Aspiring MERN Developer** focused on real-world problem solving  
+- 🌱 Currently learning **Full Stack Development**  
+- 👩‍💻 Checkout all my projects: **https://portfolio-pi-ecru-37.vercel.app/**
+- 💬 I love working with **React, JavaScript, and Backend Development**
+- 📫 Email: **punamprajapati1012@gmail.com**
 - 📄 Resume:  
   **https://drive.google.com/file/d/1NRgtmQc2tl1XsTsopK7NzwrUm9cnvTgs/view?usp=sharing**
 - ⚡ Fun Fact: *"First, solve the problem. Then, write the code."*
@@ -41,37 +42,44 @@
 
 <p align="center">
 
-  <!-- Lenskart Shopping Website -->
+  <!-- Project 1 -->
   <a href="https://6658b5dc043c344859049415--inquisitive-daffodil-b3afeb.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Lenskart%20Shopping%20Website-Visit%20Site-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Lenskart%20Clone%20(E--Commerce)-Visit%20Site-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
+  <br/>
+  <sub>🛒 A fully responsive e-commerce website inspired by Lenskart with product filtering and cart features.</sub>
+  <br/><br/>
 
-  <!-- Home Improvement Tracker -->
+  <!-- Project 2 -->
   <a href="https://home-improvement-tracker.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Home%20Improvement%20Tracker-Visit%20Site-2962FF?style=for-the-badge&logo=web&logoColor=white" />
   </a>
+  <br/>
+  <sub>🧰 A task-based tracking app to manage home repairs, materials, and progress.</sub>
+  <br/><br/>
 
-  <!-- Recipe App -->
+  <!-- Project 3 -->
   <a href="https://recipe-app-sigma-sooty.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Recipe%20App-Visit%20Site-FF3D00?style=for-the-badge&logo=foodpanda&logoColor=white" />
+    <img src="https://img.shields.io/badge/Recipe%20Finder%20App-Visit%20Site-FF3D00?style=for-the-badge&logo=foodpanda&logoColor=white" />
   </a>
+  <br/>
+  <sub>🍽 A simple recipe finder app using public APIs with search and details view.</sub>
 
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="85%" />
-</p> 🧠 Every project has helped me grow in frontend, backend, UI/UX, and real-world problem solving.
+</p>
 
 ---
 
 ## 🧩 Problem Solving  
 
-- 🧠 Practicing *DSA* on **LeetCode & HackerRank**  
-- 🧮 Writing optimized, scalable & clean code  
-- 💡 Passionate about solving real-world challenges  
+- 🧠 Practicing DSA on LeetCode & HackerRank  
+- ✨ Focused on writing clean, efficient code  
+- 💡 Enjoy solving real-world problems through logic and design  
 
 ---
-
 
 ## 🌐 Connect with Me  
 
