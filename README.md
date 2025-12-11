@@ -44,7 +44,7 @@
 
   <!-- Project 1 -->
   <a href="https://6658b5dc043c344859049415--inquisitive-daffodil-b3afeb.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Lenskart%20Clone%20(E--Commerce)-Visit%20Site-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Lenskart%20(Ecommerce)-Visit%20Site-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <br/>
   <sub>🛒 A fully responsive e-commerce website inspired by Lenskart with product filtering and cart features.</sub>
@@ -60,18 +60,16 @@
 
   <!-- Project 3 -->
   <a href="https://recipe-app-sigma-sooty.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Recipe%20Finder%20App-Visit%20Site-FF3D00?style=for-the-badge&logo=foodpanda&logoColor=white" />
+    <img src="https://img.shields.io/badge/Recipe%20App-Visit%20Site-FF3D00?style=for-the-badge&logo=foodpanda&logoColor=white" />
   </a>
   <br/>
-  <sub>🍽 A simple recipe finder app using public APIs with search and details view.</sub>
+  <sub>🍽 A simple recipe finder app using public APIs with search and detail view.</sub>
 
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="85%" />
 </p>
-
----
 
 ## 🧩 Problem Solving  
 
