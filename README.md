@@ -15,7 +15,7 @@
 
 - 🎯 **Aspiring MERN Developer** focused on real-world problem solving  
 - 🌱 Currently learning **Full Stack Development**  
-- 👩‍💻 Checkout all my projects: **https://portfolio-pi-ecru-37.vercel.app/**
+- 👩‍💻 Checkout all my projects: **[https://portfolio-pi-ecru-37.vercel.app/](https://punam-portfolio-five.vercel.app/)**
 - 💬 I love working with **React, JavaScript, and Backend Development**
 - 📫 Email: **punamprajapati1012@gmail.com**
 - 📄 Resume:  
