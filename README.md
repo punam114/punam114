@@ -19,7 +19,7 @@
 - 💬 I love working with **React, JavaScript, and Backend Development**
 - 📫 Email: **punamprajapati1012@gmail.com**
 - 📄 Resume:  
-  **https://drive.google.com/file/d/1NRgtmQc2tl1XsTsopK7NzwrUm9cnvTgs/view?usp=sharing**
+  **https://drive.google.com/file/d/1MPAahd4pw6PalK6_TMUYCE1MV01Vfyv1/view?usp=sharing**
 - ⚡ Fun Fact: *"First, solve the problem. Then, write the code."*
 
 ---
